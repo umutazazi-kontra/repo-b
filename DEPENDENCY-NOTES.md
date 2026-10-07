@@ -16,3 +16,7 @@ Root-level tooling and secure.
 ## lodash
 
 same note
+
+## zod
+
+for validation
